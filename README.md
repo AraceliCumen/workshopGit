@@ -1,7 +1,8 @@
 # workshopGit
 
-Hola aracely 
+Hola aracely
 
 ## Herramientas
 
- - html
+- html
+- Css
